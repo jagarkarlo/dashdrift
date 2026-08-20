@@ -1,10 +1,10 @@
 # dashdrift
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img alt="Jsonnet" src="https://img.shields.io/badge/Jsonnet-0064A5?style=for-the-badge" />
-  <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-3FB950?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/Jsonnet-0064A5?style=for-the-badge" alt="Jsonnet">
+  <img src="https://img.shields.io/badge/License-Apache_2.0-3FB950?style=for-the-badge" alt="License">
 </p>
 
 **Find the Grafana dashboards that no longer match your Git repo.**
