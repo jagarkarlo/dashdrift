@@ -1,5 +1,12 @@
 # dashdrift
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="Jsonnet" src="https://img.shields.io/badge/Jsonnet-0064A5?style=for-the-badge" />
+  <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-3FB950?style=for-the-badge" />
+</p>
+
 **Find the Grafana dashboards that no longer match your Git repo.**
 
 You manage dashboards as code. Then, at 2am during an incident, someone edits a
